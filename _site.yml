@@ -1,0 +1,15 @@
+name: "Roadshow CV to Web Demo"  
+output_dir: "."  
+navbar:  
+  title: " "  
+left:  
+  - text: "Home"  
+    href: index.html  
+right:  
+  - icon: fa-envelope fa-lg  
+    href: contact.html  
+
+output:  
+  html_document:  
+    theme: lumen  
+    css: 'styles.css'  
